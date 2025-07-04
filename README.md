@@ -5,7 +5,7 @@ This project analyzes and compares the recent 3-month stock performance of four 
 ---
 📍 View the dashboard here: [Stocks Analysis](/Stocks_Analysis.twbx/)
 
-![StocksAnalysis](Assets\Stock_Market_Summary.png) 
+![StocksAnalysis](/Assets/Stock_Market_Summary.png) 
 
 ## 🧠 Project Objective
 
@@ -57,9 +57,9 @@ The dataset includes:
 
 ## 📎 Sample Visuals
 
-| Price Trend | Volatility Box Plot |
-|-------------|---------------------|
-| ![AdjClose_OverTime](Assets\AdjClose_OverTime.png)  | ![](Assets\.png)  |
+![AdjCloseOverTime](\Assets\AdjClose_OverTime.png)  
+![Total_Return_comparison](\Assets\Total_Return_comparison.png) 
+![Trading_Volume_Overtime](\Assets\Trading_Volume_Overtime.png)
 
 ---
 ## 🧾 Business Use Cases
