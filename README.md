@@ -3,7 +3,7 @@
 This project analyzes and compares the recent 3-month stock performance of four major tech companies: **Apple (AAPL)**, **Microsoft (MSFT)**, **Netflix (NFLX)**, and **Google (GOOGL)** using **Tableau**. As a Business Analyst, the goal was to extract actionable insights on stock performance, volatility, and market behavior.
 
 ---
-📍 View the dashboard here: [Stocks Analysis](/Stocks_Analysis.twbx/)
+📍 View the dashboard here: [Stocks Analysis](Stocks_Analysis.twbx)
 
 ![StocksAnalysis](/Assets/Stock_Market_Summary.png) 
 
