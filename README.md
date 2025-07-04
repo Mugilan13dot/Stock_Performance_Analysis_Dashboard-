@@ -43,7 +43,7 @@ The dataset includes:
 ---
 ## 🧠 Business Analyst Wrap-Up Summary
 
--“This dashboard reveals that **Microsoft (MSFT)** delivered the best 3-month return at **+12.3%**, making it the top performer. **Netflix (NFLX)** was the most volatile, offering high-risk trading opportunities. Meanwhile, **Google (GOOGL)** had the highest trading volume day—likely due to news events. These insights help stakeholders assess growth, risk, and market behavior for investment planning.”
+“This dashboard reveals that **Microsoft (MSFT)** delivered the best 3-month return at **+12.3%**, making it the top performer. **Netflix (NFLX)** was the most volatile, offering high-risk trading opportunities. Meanwhile, **Google (GOOGL)** had the highest trading volume day—likely due to news events. These insights help stakeholders assess growth, risk, and market behavior for investment planning.”
 
 
 ## 📌 Key Business Insights
