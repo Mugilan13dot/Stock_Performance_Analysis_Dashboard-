@@ -3,10 +3,13 @@
 This project analyzes and compares the recent 3-month stock performance of four major tech companies: **Apple (AAPL)**, **Microsoft (MSFT)**, **Netflix (NFLX)**, and **Google (GOOGL)** using **Tableau**. As a Business Analyst, the goal was to extract actionable insights on stock performance, volatility, and market behavior.
 
 ---
+📍 View the dashboard here: [Stocks Analysis](/Stocks_Analysis.twbx/)
+
+![StocksAnalysis](Assets\Stock_Market_Summary.png) 
 
 ## 🧠 Project Objective
 
-> 📈 **Identify investment opportunities** by analyzing stock price trends, growth, volatility, and trading volume over the past 3 months using interactive dashboards.
+📈 **Identify investment opportunities** by analyzing stock price trends, growth, volatility, and trading volume over the past 3 months using interactive dashboards.
 
 ---
 
@@ -56,18 +59,9 @@ The dataset includes:
 
 | Price Trend | Volatility Box Plot |
 |-------------|---------------------|
-| ![price-trend](images/line_chart.png) | ![box-plot](images/box_plot.png) |
-
-
+| ![AdjClose_OverTime](Assets\AdjClose_OverTime.png)  | ![](Assets\.png)  |
 
 ---
-
-## 🚀 How to View the Dashboard
-
-You can interact with the dashboard here (hosted on Tableau Public):
-
----
-
 ## 🧾 Business Use Cases
 
 - 💼 Investor sentiment and performance benchmarking
