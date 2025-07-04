@@ -58,7 +58,7 @@ The dataset includes:
 ## 📎 Sample Visuals
 
 ![AdjCloseOverTime](Assets/AdjClose_OverTime.png)  
-![Total_Return_comparison](Assets\Total_Return_comparison.png) 
+![Total_Return_comparison](Assets/Total_Return_comparison.png) 
 ![Trading_Volume_Overtime](Assets\Trading_Volume_Overtime.png)
 
 ---
