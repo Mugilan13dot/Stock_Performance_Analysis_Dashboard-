@@ -38,7 +38,7 @@ The dataset includes:
 | 📊 **Bar Chart** – % Total Return | Identify best/worst performer | “Microsoft returned +12.3%, the highest among the fo ur. Netflix returned only +2.1%, while Google slightly declined during this period. This makes Microsoft the top short-term performer.” |
 | 📦 **Box Plot** – Daily Return Volatility | Evaluate risk profile | Netflix (NFLX) might show high variation in returns = higher risk, Apple (AAPL) may have a tighter box = lower risk |
 | 🔊 **Area Chart** – Trading Volume Over Time | Spot market activity spikes | 📈 Netflix volume spike → Could indicate a major announcement, 📰 Google trading surge → Possibly due to earnings or AI product news |
-| 🧾 **KPI Cards** | Show Best Performer, Most Volatile Stock, Highest Volume Day |
+| 🧾 **KPI Cards** | Show Best Performer, Most Volatile Stock, Highest Volume Day | Microsoft outperformed all other stocks over the last 3 months, showing consistent upward price movement and strong investor confidence, Netflix experienced frequent price swings, indicating high trading risk but also potentSudden trading surge indicates potential market-moving event or investor reaction to news/announcements.ial for short-term gains. |
 
 ---
 ## 🧠 Business Analyst Wrap-Up Summary
