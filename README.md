@@ -58,14 +58,13 @@ The dataset includes:
 |-------------|---------------------|
 | ![price-trend](images/line_chart.png) | ![box-plot](images/box_plot.png) |
 
-> 📌 *Upload your dashboard screenshots in the `images/` folder and update these paths accordingly.*
+
 
 ---
 
 ## 🚀 How to View the Dashboard
 
-You can interact with the dashboard here (hosted on Tableau Public):  
-🔗 [**View Live Dashboard**](#) *(Insert your Tableau Public link here)*
+You can interact with the dashboard here (hosted on Tableau Public):
 
 ---
 
